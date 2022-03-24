@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tarot-year-cards/static/css/main.073c9b0a.css",
+    "main.js": "/tarot-year-cards/static/js/main.dea5bfab.js",
+    "static/js/787.c3be0674.chunk.js": "/tarot-year-cards/static/js/787.c3be0674.chunk.js",
+    "index.html": "/tarot-year-cards/index.html",
+    "main.073c9b0a.css.map": "/tarot-year-cards/static/css/main.073c9b0a.css.map",
+    "main.dea5bfab.js.map": "/tarot-year-cards/static/js/main.dea5bfab.js.map",
+    "787.c3be0674.chunk.js.map": "/tarot-year-cards/static/js/787.c3be0674.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dea5bfab.js"
+  ]
+}
